@@ -1,20 +1,11 @@
 [
   {
     "id": 1,
-    "path": "this_is_the_title",
-    "image": "",
-    "title": "عنوان قياسي للتجريب",
-    "author": "الكاتب",
-    "date": "2019-06-01",
-    "tags": ["موضوع 5", "موضوع 7", "موضوع 9"]
-  },
-  {
-    "id": 2,
     "path": "desires_impact_on_intellect",
     "image": "desires_impact_on_intellect.jpg",
     "title": "سلطة الأهواء على العقل",
-    "author": "أمين",
+    "author": "أبو ناصر أمين",
     "date": "2024-07-14",
-    "tags": ["العقل", "تفكير", "عقلانية", "منطق"]
+    "tags": ["العقل", "التفكير", "العقلانية", "المنطق"]
   }
 ]
