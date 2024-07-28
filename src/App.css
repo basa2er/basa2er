@@ -8,7 +8,7 @@ body,
 #root {
   margin: 0;
   font-family: Cairo, sans-serif;
-  background-color: #f5efe6;
+  background-image: url("./images/geometry/geo-background.jpg");
   color: #242424;
   direction: rtl;
 }
