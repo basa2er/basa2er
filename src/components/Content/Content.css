@@ -7,6 +7,7 @@
   height: fit-content;
   width: calc(100% - 425px);
   max-width: 60vw;
+  background-color: white;
 }
 
 .blog-info {
@@ -28,7 +29,7 @@
 }
 
 .blog-tags span {
-  background-color: #003135;
+  background-color: #242424;
   padding: 1px 5px;
   border-radius: 5px;
   color: #f5efe6;

@@ -1,56 +1,53 @@
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #c2cbd2;
-  height: 50px;
-  margin-bottom: 75px;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-  position: fixed;
-  z-index: 1;
-  width: 100vw;
-  box-sizing: border-box;
-}
-
 .header-logo {
-  width: 160px;
+  width: 90px;
   height: 80px;
-  align-self: baseline;
-  background-color: #003135;
-  text-align: center;
-  border-radius: 0 0 15px 15px;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   cursor: pointer;
   position: absolute;
-  right: 40px;
+  right: 108px;
+  top: 36px;
+  z-index: 1;
 }
 
 .header-search {
   padding: 5px 10px;
-  border-radius: 10px;
-  background-color: #f5efe6;
-  border: solid 2px #003135;
-  color: #003135;
+  border-radius: 6px;
+  border: solid 2px #595959;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-  width: 25%;
-  height: 20px;
-  font-family: Cairo, sans-serif
+  width: 25vw;
+  height: 15px;
+  position: absolute;
+  left: 20px;
+  top: 13px;
 }
 
-@media screen and (max-width: 1080px) {
-  .header {
-    height: 40px;
-    justify-content: space-between;
-    padding: 0px 15px;
-  }
+.header-art {
+  position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin-top: 55px;
+}
+
+.header-art-node {
+  height: 174px;
+  position: absolute;
+  right: 0;
+  transform: scaleX(-1);
+}
+
+.header-art-line {
+  height: 49px;
+  flex-grow: 1;
+  margin-right: 239px;
+  background-image: url("./images/geometry/geo-header-line.png");
+  background-repeat: repeat-x;
+  background-size: 70px;
+  transform: scaleX(-1);
+}
+
+@media screen and (max-width: 1050px) {
   .header-search {
-    width: 35%;
-    height: 14px;
+    width: 35vw;
   }
-  .header-logo {
-    width: 120px;
-    height: 60px;
-    position: relative;
-    right: 0;
-  }
+  
 }

@@ -7,19 +7,18 @@ html,
 body,
 #root {
   margin: 0;
-  height: 100%;
   font-family: Cairo, sans-serif;
-  background-color: #f5efe6;
-  color: #003135;
+  background-image: url("./images/geometry/geo-background.jpg");
+  color: #242424;
   direction: rtl;
 }
 
 .separator {
   display: flex;
   justify-content: center;
-  align-content: center;
   flex-wrap: wrap;
   padding-top: 100px;
+  min-height: calc(100vh - 365px);
 }
 
 .spinner {
@@ -34,13 +33,12 @@ body,
   height: 40px;
   border: 5px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  border-top-color: #003135;
+  border-top-color: #242424;
   animation: spin 1s linear infinite;
 }
 
 .error {
-  min-width: 320px;
-  max-width: 90%;
+  width: 320px;
   padding: 0 0 16px 0 !important;
   margin: auto;
   background-color: #ffecec;
@@ -66,11 +64,5 @@ body,
 
   100% {
     transform: rotate(360deg);
-  }
-}
-
-@media screen and (max-width: 1080px) {
-  .separator {
-    flex-direction: column;
   }
 }

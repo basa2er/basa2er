@@ -7,7 +7,6 @@ function Navigation({ setCurrentBlog, searchWord, setSearchWord }) {
     startTransition(() => setSearchWord(query.toLowerCase()));
     setCurrentBlog(0);
     window.scrollTo(0, 0);
-    history.pushState({}, '', window.location.pathname);
   };
   
   return (
@@ -17,6 +16,11 @@ function Navigation({ setCurrentBlog, searchWord, setSearchWord }) {
         className="header-search" value={searchWord} type="text" placeholder="🔍  بحث المقالات ..."
         onChange={(event) => handleSearch(event.target.value)} autoFocus
       />
+
+      <div className="header-art">
+        <img className="header-art-node" src="./images/geometry/geo-header-node-old.png" />
+        <div className="header-art-line"></div>
+      </div>
     </div>
   );
 }
