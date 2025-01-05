@@ -79,8 +79,3 @@ https://youtu.be/cQu0PDWNRrE?si=WCrEEfIv3j\_Ks0CX
 7-نفح الطيب من غصن الاندلس الرطيب أبو العباس أحمد بن محمد المقري.
 
 8-الحمراء وابن الخطيب الجزيرة نت.
-
-https://doc.aljazeera.net/videos/2024/3/31
-/%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1
--%D9%88%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D8%
-AE%D8%B7%D9%8A%D8%A8
