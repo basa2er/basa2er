@@ -23,7 +23,7 @@
     "date": "2024-09-20",
     "tags": ["العقلانية", "التنوير", "المسلمات", "الشك", "اليقين"]
   },
-    {
+  {
     "path": "tikchbila_tiwliwla",
     "image": "tikchbila_tiwliwla.jpg",
     "title": "تيكشبيلة تيوليولة",
@@ -31,7 +31,7 @@
     "date": "2024-12-04",
     "tags": ["الحضارة"]
   },
-      {
+  {
     "path": "babAlMa7ro9",
     "image": "bab.jpg",
     "title": "باب المحروق",
@@ -39,12 +39,20 @@
     "date": "2025-01-05",
     "tags": ["الحضارة", "التفاهة"]
   },
-        {
+  {
     "path": "al-mahi",
     "image": "al-mahi.jpg",
     "title": "الماحي صلى الله عليه وسلم",
     "author": "حنظلة",
     "date": "2025-02-10",
     "tags": ["السيرة", "دلائل النبوة"]
+  },
+  {
+    "path": "philosophy_flavored_science",
+    "image": "philosophy_flavored_science.png",
+    "title": "فلسفة بنكهة العلم التجريبي",
+    "author": "ناصر الأمين",
+    "date": "2025-03-24",
+    "tags": ["العلم الطبيعي", "الطبيعانية", "نظرية التطور", "علم الكونيات"]
   }
 ]
