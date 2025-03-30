@@ -27,7 +27,7 @@
     "path": "tikchbila_tiwliwla",
     "image": "tikchbila_tiwliwla.jpg",
     "title": "تيكشبيلة تيوليولة",
-    "author": "حنظلة",
+      "author": "م.عثمان بنعمر",
     "date": "2024-12-04",
     "tags": ["الحضارة"]
   },
@@ -35,7 +35,7 @@
     "path": "babAlMa7ro9",
     "image": "bab.jpg",
     "title": "باب المحروق",
-    "author": "حنظلة",
+       "author": "م.عثمان بنعمر",
     "date": "2025-01-05",
     "tags": ["الحضارة", "التفاهة"]
   },
@@ -43,7 +43,7 @@
     "path": "al-mahi",
     "image": "al-mahi.jpg",
     "title": "الماحي صلى الله عليه وسلم",
-    "author": "حنظلة",
+       "author": "م.عثمان بنعمر",
     "date": "2025-02-10",
     "tags": ["السيرة", "دلائل النبوة"]
   },
@@ -59,8 +59,17 @@
     "path": "Al-MA3RAKA-AL-HASSIMA",
     "image": "Al-MA3RAKA-AL-HASSIMA.jpg",
     "title": "المعركة التي اشتاقت إليها البشرية",
-    "author": "حنظلة",
+       "author": "م.عثمان بنعمر",
     "date": "2025-03-25",
     "tags": [ "التاريخ","الحضارة" ]
+  }
+  ,
+    {
+    "path": "Why the world should study the biography of Muhammad ﷺ",
+    "image": "Design sans titre.png",
+    "title": " لمذا على العالم دراسة سيرة محمد ﷺ",
+    "author": "م.عثمان بنعمر",
+    "date": "2025-03-25",
+    "tags": [  " السيرة" ]
   }
 ]
