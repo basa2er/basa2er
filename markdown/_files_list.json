@@ -53,23 +53,30 @@
     "title": "فلسفة بنكهة العلم التجريبي",
     "author": "ناصر الأمين",
     "date": "2025-03-24",
-    "tags": ["العلم الطبيعي", "الطبيعانية", "نظرية التطور", "علم الكونيات"]
+    "tags": ["العلم الطبيعي", "الطبيعانية", "نظرية التطور", "علم الكونيات", "التجربة"]
   },
-    {
+  {
     "path": "Al-MA3RAKA-AL-HASSIMA",
     "image": "Al-MA3RAKA-AL-HASSIMA.jpg",
     "title": "المعركة التي اشتاقت إليها البشرية",
     "author": "عثمان بنعمر",
     "date": "2025-03-25",
-    "tags": ["التاريخ","الحضارة"]
-  }
-  ,
-    {
+    "tags": ["التاريخ", "الحضارة"]
+  },
+  {
     "path": "why_study_the_biography_of_Muhammad",
     "image": "why_study_the_biography_of_Muhammad.png",
     "title": "لماذا على العالم دراسة سيرة محمد ﷺ",
     "author": "عثمان بنعمر",
     "date": "2025-03-30",
     "tags": ["السيرة", "النبوة", "أدلة الإسلام"]
+  },
+  {
+    "path": "conflict_between_science_and_religion",
+    "image": "conflict_between_science_and_religion.jpg",
+    "title": "صراع الدين والعلم التجريبي",
+    "author": "ناصر الأمين",
+    "date": "2025-04-27",
+    "tags": ["العلم الطبيعي", "الطبيعانية", "التجربة", "الدين"]
   }
 ]
